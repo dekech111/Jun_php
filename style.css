@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.elements {
+    max-width: 800px;
+    width: 100%;
+    margin-left: 350px;
+
+}
+.input {
+    max-width: 1250px;
+    margin-right: 23px;
+    width: 199px;
+    font-size: 18px;
+}
+.elements {
+    margin-top: 20%;
+}
